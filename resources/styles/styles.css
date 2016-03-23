@@ -6,3 +6,11 @@ body {
 h1 {
   color: lightblue;
 }
+
+h3 {
+  color: lightgreen;
+}
+
+.selected {
+  color: teal;
+}
